@@ -38,7 +38,7 @@ class custom_py_what_kit:
         pg.press('right')
         pg.press('enter')
         
-        time.sleep(1)
+        time.sleep(2)
 
         print('Closing Current Tab .. ')
         pg.hotkey('ctrl', 'w',)
